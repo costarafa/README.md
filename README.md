@@ -12,15 +12,3 @@ Estudante de engenharia de software no IFPR
 <a href="https://www.linkedin.com/in/gabriellekwsiqueira/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40" width="40" /></a> 
 <a href="https://instagram.com/costah.rafa?igshid=YmMyMTA2MY=" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="gabekw.twitter" height="40" width="40" /></a>
 </p>
-
-
-
-<details>
-  <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
-  <br>
-  
-<h3> Já que você veio até aqui joga o jogo do meu Gato !!! </h3> 
-
-Clica aí no cat
-<a href="https://gabriellekw.github.io/JogoMemoriaCat/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1864/1864514.png" alt="gabekw.jgmemoriacat" height="40" width="40" /> </a>
-</p>  
